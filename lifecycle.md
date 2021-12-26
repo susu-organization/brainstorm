@@ -18,7 +18,7 @@
 <table>
   <tbody>
     <tr>
-      <td>Критерий</td>
+      <td align="center">Критерий</td>
       <td>Важность</td>
     </tr>
     <tr>
