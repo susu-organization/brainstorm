@@ -71,3 +71,36 @@
     </tr> 
   </tbody>
 </table>
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center">Модель</td>
+      <td>Оценка</td>
+    </tr>
+    <tr>
+      <td>Каскадная</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>V-образная</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>Прототипирование</td>
+      <td>7</td>
+    </tr>
+    <tr>
+      <td>Спиральная</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>RAD</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>Инкрементная</td>
+      <td>6</td>
+    </tr>
+  </tbody>
+</table>
