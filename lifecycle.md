@@ -15,6 +15,8 @@
   - Направленность проекта на разработку нового продукта
   - Доступность повторно используемых компонентов
   - Необходимость обеспечения высокой надежности ПП
+
+X^p
 <table>
   <tbody>
     <tr>
@@ -69,6 +71,247 @@
       <td>Необходимость обеспечения высокой надежности ПП</td>
       <td>1</td>
     </tr> 
+    <tr>
+      <td>Сумма</td>
+      <td>9</td>
+    </tr>
+  </tbody>
+</table>
+
+X^r
+<table>
+  <tbody>
+    <tr>
+      <td align="center">Наличие свойства в модели</td>
+      </tr>
+    <tr>
+      <td>Каскадная</td>
+      <td>V-образная</td>
+      <td>Прототипирование</td>
+      <td>Спиральная</td>
+      <td>RAD</td>
+      <td>Инкрементная</td>
+    </tr>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    </tr>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    </tr>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    </tr>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    </tr>
+      <td>1</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    </tr>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>0</td>
+      <td>1</td>
+    </tr>
+    </tr>
+      <td>1</td>
+      <td>1</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>1</td>
+    </tr>
+    </tr>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    </tr>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+    </tr>
+    </tr>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>1</td>
+      <td>0</td>
+      <td>1</td>
+    </tr>
+    </tr>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>0</td>
+    </tr>
+    </tr>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>1</td>
+    </tr>
+  </tbody>
+</table>
+
+|X^r-X^p|
+<table>
+  <tbody>
+    <tr>
+      <td>Каскадная</td>
+      <td>V-образная</td>
+      <td>Прототипирование</td>
+      <td>Спиральная</td>
+      <td>RAD</td>
+      <td>Инкрементная</td>
+    </tr>
+      <td>1</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    </tr>
+      <td>1</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+    </tr>
+    </tr>
+      <td>1</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    </tr>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    </tr>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    </tr>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>0</td>
+      <td>1</td>
+    </tr>
+    </tr>
+      <td>1</td>
+      <td>1</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>1</td>
+    </tr>
+    </tr>
+      <td>1</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+    </tr>
+    </tr>
+      <td>1</td>
+      <td>1</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>1</td>
+    </tr>
+    </tr>
+      <td>1</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+    </tr>
+    </tr>
+      <td>1</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+    </tr>
+    </tr>
+      <td>1</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+    </tr>
+    </tr>
+      <td>Σ = 10</td>
+      <td>Σ = 9</td>
+      <td>Σ = 4</td>
+      <td>Σ = 5</td>
+      <td>Σ = 6</td>
+      <td>Σ = 6</td>
+    </tr>
+    </tr>
+      <td>R = 1</td>
+      <td>R = 0</td>
+      <td>R = 5</td>
+      <td>R = 4</td>
+      <td>R = 3</td>
+      <td>R = 3</td>
+    </tr>
   </tbody>
 </table>
 
@@ -104,4 +347,5 @@
     </tr>
   </tbody>
 </table>
+minR=0<br>
 Вывод: наиболее подходящей моделью является V-образная.
