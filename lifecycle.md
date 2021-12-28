@@ -78,7 +78,7 @@ X^p
   </tbody>
 </table>
 
-X^r
+X^r (Наличие свойства в модели)
 <table>
   <tbody>
     <tr>
